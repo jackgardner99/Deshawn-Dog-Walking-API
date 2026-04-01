@@ -1,0 +1,7 @@
+Table Appointment {
+    id int [pk]
+    walker_id int
+    date datetime
+    completed boolean
+}
+
